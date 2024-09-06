@@ -20,5 +20,5 @@ with body:
         
         # Display the certificate image
         img = Image.open(certificate['image'])
-        st.image(img, caption=certificate["title"], use_column_width=True, width=400, height=300)
+        st.image(img, caption=certificate["title"], use_column_width=True, width=100, height=100)
 
