@@ -1,0 +1,13 @@
+title;description;link;image
+TerraLife;Terralife is an innovative digital platform dedicated to afforestation and environmental conservation. Our app connects volunteers and planters with barren lands suitable for planting trees and plants. ;https://terralife-2d712.web.app/;15.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://jashesh18.streamlit.app/;2.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://weatherforecastt.streamlit.app/;16.png
+Photo of NASA; A webapp which show cases a photo of space daily with NASA API with photo Description.;https://photosfromnasa.streamlit.app/;7.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://todobyjashesh.streamlit.app/;1.png
+Company Website;A website for about us page and contact page;https://companyapp.streamlit.app/;3.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view. It uses cv2 (OpenCV) for video capture and smtplib for sending emails.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;11.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;17.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;8.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;4.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;6.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://drive.google.com/drive/folders/1HI-tUTccNItX3vUDgVE_srK9kJc7flpz;19.png
