@@ -25,14 +25,14 @@ with body:
         st.markdown(f"######  🔘Interest: {info['interest']}")
         st.markdown(f"######  🔘Linkedin: {linkedin_link}")
         
-        with open("src/JasheshKanzariya.pdf", "rb") as file:
-            pdf_file = file.read()
+        # with open("src/JasheshKanzariya.pdf", "rb") as file:
+        #     pdf_file = file.read()
 
-        st.download_button(
-            label="Download my :blue[resume]",
-            data=pdf_file,
-            file_name="JasheshKanzariya",
-            mime="application/pdf")
+        # st.download_button(
+        #     label="Download my :blue[resume]",
+        #     data=pdf_file,
+        #     file_name="JasheshKanzariya",
+        #     mime="application/pdf")
 
     with col3:
         st.image("src/image.jpg", width=360)
