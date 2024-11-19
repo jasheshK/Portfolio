@@ -5,7 +5,7 @@ skill_col_size = 5
 def menu():
     bar0, bar1, bar2, bar3, bar4= st.columns([0.1,1,1,1,1])
     bar1.page_link("🏠_Mainpage.py", label="Introduction", icon="🏠")
-    bar2.page_link("pages/2_🎨_Portofolio.py", label="Portofolio", icon="🎨")
+    bar2.page_link("pages/2_🎨_Portfolio.py", label="Portfolio", icon="🎨")
     bar3.page_link("pages/1_📚_Certificates.py", label= "Certifications", icon="📚")
     bar4.page_link("pages/3_🌏_Contacts.py", label="Contacts", icon="🌏")
     st.write("")
